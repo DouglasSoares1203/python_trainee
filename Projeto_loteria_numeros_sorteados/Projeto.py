@@ -31,3 +31,14 @@ class LoteriaApp:
 if __name__ == "__main__":
                 app = LoteriaApp()
                 app.run()
+
+
+#         Nesse código:
+
+# - (link unavailable)() cria a janela principal do aplicativo.
+# - self.janela.title("Loteria") define o título da janela.
+# - tk.Label e tk.Button criam o rótulo e o botão na janela.
+# - pack() organiza os elementos na janela.
+# - mainloop() inicia o loop principal do aplicativo.
+
+# Execute esse código para criar o aplicativo de loteria!
