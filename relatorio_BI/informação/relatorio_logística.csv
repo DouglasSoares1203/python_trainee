@@ -1,0 +1,201 @@
+ID Pedido,Data,Local,Transportadora,Valor do Pedido,Status,Quantidade,Peso (kg),Dias de Entrega,Entrega Prioritária
+6354,2023-06-22,Rio de Janeiro,Transportadora X,4165.19,Aguardando,79,21.81,6,Sim
+3759,2023-01-28,São Paulo,Transportadora X,905.45,Em trânsito,85,7.77,10,Sim
+4334,2023-05-30,Rio de Janeiro,Transportadora Y,1081.46,Entregue,66,24.58,5,Sim
+8930,2023-01-04,Rio de Janeiro,Transportadora X,3455.1,Entregue,77,38.88,10,Sim
+6276,2023-02-10,São Paulo,Transportadora X,3079.47,Entregue,65,1.14,4,Não
+3059,2023-07-07,Rio de Janeiro,Transportadora Y,4485.46,Aguardando,87,35.8,3,Sim
+6899,2023-11-27,Rio de Janeiro,Transportadora X,4953.23,Em trânsito,64,18.93,1,Sim
+4353,2023-11-14,Belo Horizonte,Transportadora Y,3933.47,Entregue,25,29.2,4,Não
+4283,2023-01-21,Belo Horizonte,Transportadora Y,4730.36,Entregue,3,8.43,9,Sim
+6361,2023-03-08,Belo Horizonte,Transportadora Y,3869.0,Aguardando,46,17.19,6,Não
+4540,2023-07-23,Belo Horizonte,Transportadora Y,4938.65,Em trânsito,25,47.77,8,Sim
+4771,2023-07-07,Rio de Janeiro,Transportadora X,1585.54,Aguardando,41,14.16,10,Não
+7422,2023-05-25,Rio de Janeiro,Transportadora X,3632.44,Em trânsito,48,30.02,10,Não
+4014,2023-08-01,Rio de Janeiro,Transportadora X,4199.93,Entregue,46,36.94,10,Sim
+3297,2023-08-31,Belo Horizonte,Transportadora X,3492.08,Aguardando,36,23.73,5,Não
+2434,2023-05-02,São Paulo,Transportadora Y,3526.84,Em trânsito,20,17.98,7,Não
+5508,2023-06-19,Rio de Janeiro,Transportadora X,2233.0,Em trânsito,94,46.74,2,Sim
+4839,2023-01-28,Belo Horizonte,Transportadora Y,4673.94,Aguardando,68,20.74,7,Sim
+2625,2023-12-28,Rio de Janeiro,Transportadora X,3987.23,Aguardando,57,34.73,4,Sim
+8032,2023-11-21,São Paulo,Transportadora X,3728.51,Aguardando,64,7.08,4,Sim
+2744,2023-01-21,São Paulo,Transportadora X,765.62,Em trânsito,86,11.94,7,Não
+3792,2023-05-14,São Paulo,Transportadora X,2004.2,Em trânsito,22,33.95,8,Sim
+7392,2023-03-20,Belo Horizonte,Transportadora X,2737.85,Em trânsito,79,1.74,7,Não
+5287,2023-03-07,Rio de Janeiro,Transportadora X,4844.86,Em trânsito,21,10.09,1,Não
+7508,2023-08-25,Rio de Janeiro,Transportadora X,3878.81,Aguardando,3,16.7,1,Não
+1763,2023-10-22,Rio de Janeiro,Transportadora X,2695.15,Aguardando,90,30.25,4,Sim
+1015,2023-10-04,Rio de Janeiro,Transportadora Y,3015.88,Entregue,79,10.94,4,Não
+4778,2023-12-16,São Paulo,Transportadora Y,167.24,Entregue,13,38.25,4,Não
+1146,2023-01-12,Belo Horizonte,Transportadora X,4527.55,Entregue,74,43.75,1,Não
+3161,2023-09-08,Rio de Janeiro,Transportadora Y,1615.54,Aguardando,99,5.34,2,Não
+9096,2023-06-14,São Paulo,Transportadora Y,1419.92,Em trânsito,16,17.29,10,Sim
+5149,2023-09-27,Rio de Janeiro,Transportadora Y,818.23,Aguardando,28,26.18,7,Sim
+8718,2023-06-29,São Paulo,Transportadora Y,1575.38,Aguardando,24,22.01,4,Não
+8610,2023-07-23,São Paulo,Transportadora X,1400.28,Aguardando,44,12.89,6,Não
+4015,2023-06-07,São Paulo,Transportadora Y,4077.24,Aguardando,16,25.91,3,Sim
+6411,2023-12-05,Belo Horizonte,Transportadora X,1706.02,Entregue,71,38.54,4,Sim
+7175,2023-01-04,Belo Horizonte,Transportadora Y,2879.86,Aguardando,42,43.9,8,Não
+6628,2023-08-30,São Paulo,Transportadora X,660.76,Em trânsito,42,27.69,7,Sim
+2322,2023-11-05,Rio de Janeiro,Transportadora X,2943.97,Aguardando,41,1.22,10,Não
+8558,2023-03-18,Belo Horizonte,Transportadora Y,3563.4,Entregue,16,7.99,5,Não
+9892,2023-12-25,Rio de Janeiro,Transportadora Y,3312.22,Entregue,4,42.59,10,Não
+1317,2023-01-26,Belo Horizonte,Transportadora Y,4133.18,Aguardando,32,49.95,6,Sim
+6659,2023-09-20,Belo Horizonte,Transportadora Y,1265.79,Em trânsito,83,23.34,2,Sim
+7344,2023-12-05,Belo Horizonte,Transportadora Y,416.39,Aguardando,69,5.37,1,Sim
+1658,2023-05-30,Belo Horizonte,Transportadora Y,2270.41,Em trânsito,38,1.51,5,Não
+8540,2023-01-07,Belo Horizonte,Transportadora X,2750.21,Em trânsito,26,25.38,8,Sim
+8513,2023-09-23,Belo Horizonte,Transportadora X,3448.82,Aguardando,38,20.45,1,Não
+4401,2023-01-07,Rio de Janeiro,Transportadora X,3579.72,Aguardando,77,20.29,2,Não
+5681,2023-08-14,Belo Horizonte,Transportadora X,3378.47,Entregue,90,3.96,1,Sim
+7594,2023-03-22,Belo Horizonte,Transportadora X,4853.61,Em trânsito,34,4.71,8,Sim
+3309,2023-04-19,São Paulo,Transportadora X,3855.2,Aguardando,93,34.04,6,Sim
+6030,2023-05-22,Rio de Janeiro,Transportadora Y,1752.31,Entregue,30,5.97,2,Sim
+8653,2023-12-28,São Paulo,Transportadora Y,3700.37,Aguardando,27,39.29,6,Sim
+5500,2023-03-24,São Paulo,Transportadora X,4622.84,Aguardando,36,29.08,8,Sim
+3981,2023-06-09,Rio de Janeiro,Transportadora X,2164.53,Em trânsito,92,39.6,8,Sim
+5568,2023-12-30,Rio de Janeiro,Transportadora X,2261.51,Em trânsito,5,27.6,9,Não
+7278,2023-01-31,São Paulo,Transportadora X,4275.26,Aguardando,37,18.18,2,Não
+4732,2023-10-05,São Paulo,Transportadora Y,1479.0,Entregue,55,7.59,10,Sim
+9675,2024-01-01,Belo Horizonte,Transportadora Y,2919.57,Em trânsito,100,23.74,7,Sim
+9924,2023-06-02,Belo Horizonte,Transportadora X,3395.95,Em trânsito,44,14.4,1,Não
+9180,2023-06-15,Rio de Janeiro,Transportadora X,3698.75,Entregue,38,41.77,3,Não
+2509,2023-06-24,São Paulo,Transportadora Y,1883.44,Em trânsito,69,43.27,7,Sim
+5364,2023-08-06,Belo Horizonte,Transportadora X,724.92,Em trânsito,17,17.94,10,Sim
+5470,2023-07-24,Rio de Janeiro,Transportadora X,2869.25,Em trânsito,71,2.94,7,Não
+9283,2023-08-18,Rio de Janeiro,Transportadora Y,1948.5,Em trânsito,10,13.14,1,Sim
+9721,2023-04-01,Belo Horizonte,Transportadora X,2811.47,Entregue,7,30.62,5,Sim
+1661,2023-09-03,São Paulo,Transportadora X,2920.9,Em trânsito,25,2.56,4,Sim
+7704,2023-01-06,Rio de Janeiro,Transportadora Y,2047.46,Entregue,98,43.1,2,Não
+7482,2023-12-29,Rio de Janeiro,Transportadora X,3290.01,Em trânsito,55,4.22,6,Não
+7808,2023-07-19,São Paulo,Transportadora Y,4393.75,Aguardando,94,43.23,7,Sim
+4435,2023-07-08,Rio de Janeiro,Transportadora Y,1320.94,Em trânsito,3,6.45,6,Não
+5690,2023-03-29,Rio de Janeiro,Transportadora Y,2878.52,Entregue,56,40.57,2,Sim
+5397,2023-09-08,Belo Horizonte,Transportadora Y,3447.59,Aguardando,94,16.99,5,Sim
+9378,2023-10-30,Rio de Janeiro,Transportadora Y,1324.55,Em trânsito,65,8.96,3,Não
+1711,2023-09-18,Rio de Janeiro,Transportadora X,2688.29,Aguardando,11,29.91,5,Não
+6112,2023-11-17,Rio de Janeiro,Transportadora X,2761.96,Entregue,98,10.13,6,Não
+4737,2023-11-26,Rio de Janeiro,Transportadora X,3343.51,Aguardando,83,38.13,1,Não
+2671,2023-11-24,Belo Horizonte,Transportadora X,3365.76,Entregue,17,8.48,9,Não
+7870,2023-07-01,Rio de Janeiro,Transportadora Y,1695.0,Em trânsito,20,29.47,7,Sim
+6842,2023-09-01,Rio de Janeiro,Transportadora Y,3158.87,Entregue,7,26.13,5,Sim
+3531,2023-05-21,Rio de Janeiro,Transportadora Y,3114.65,Entregue,72,46.79,3,Não
+4556,2023-03-21,Rio de Janeiro,Transportadora Y,2729.65,Aguardando,100,43.99,6,Não
+2777,2023-01-12,Belo Horizonte,Transportadora X,3816.4,Entregue,68,9.65,6,Não
+1171,2023-07-20,Rio de Janeiro,Transportadora Y,566.52,Em trânsito,62,41.74,7,Sim
+9245,2023-08-01,Belo Horizonte,Transportadora Y,598.27,Entregue,51,23.7,10,Não
+5326,2023-01-26,Rio de Janeiro,Transportadora Y,1433.35,Entregue,76,48.82,10,Sim
+4247,2023-07-07,Rio de Janeiro,Transportadora X,4341.92,Aguardando,86,3.62,9,Não
+9304,2023-02-19,São Paulo,Transportadora X,2789.75,Aguardando,38,31.81,10,Não
+9887,2023-02-01,Belo Horizonte,Transportadora X,4558.77,Entregue,6,30.21,3,Não
+7659,2023-01-02,São Paulo,Transportadora Y,323.7,Em trânsito,68,22.34,6,Sim
+4767,2023-10-24,Rio de Janeiro,Transportadora Y,3775.62,Em trânsito,19,42.36,2,Não
+4053,2023-10-07,Rio de Janeiro,Transportadora X,1674.8,Entregue,12,49.89,7,Não
+7273,2023-11-11,Belo Horizonte,Transportadora Y,3675.55,Aguardando,62,34.05,2,Não
+3645,2023-04-30,Belo Horizonte,Transportadora Y,579.32,Em trânsito,16,31.74,3,Não
+4029,2023-02-05,Rio de Janeiro,Transportadora X,4215.43,Aguardando,56,18.94,2,Sim
+7063,2023-08-24,Belo Horizonte,Transportadora X,3818.83,Aguardando,10,11.71,4,Não
+9212,2023-07-25,Belo Horizonte,Transportadora Y,125.17,Em trânsito,84,3.08,5,Não
+7030,2023-08-08,São Paulo,Transportadora Y,3548.66,Em trânsito,57,26.47,9,Sim
+2755,2023-01-13,Belo Horizonte,Transportadora Y,2342.97,Aguardando,36,47.07,10,Não
+6653,2023-07-26,Belo Horizonte,Transportadora Y,1841.73,Entregue,39,20.99,4,Sim
+9540,2023-07-25,Rio de Janeiro,Transportadora Y,602.75,Aguardando,88,34.65,2,Sim
+1815,2023-04-23,Belo Horizonte,Transportadora X,3455.62,Aguardando,16,29.78,6,Sim
+4264,2023-03-06,São Paulo,Transportadora Y,3356.98,Entregue,17,14.06,9,Não
+6104,2023-10-31,São Paulo,Transportadora Y,717.46,Aguardando,2,27.16,10,Não
+3890,2023-07-30,Belo Horizonte,Transportadora Y,2470.28,Aguardando,29,42.03,6,Sim
+8062,2023-10-06,São Paulo,Transportadora X,1798.88,Em trânsito,80,21.69,3,Sim
+5441,2023-06-09,Belo Horizonte,Transportadora Y,4545.84,Entregue,94,9.91,7,Não
+7977,2023-11-05,São Paulo,Transportadora X,1014.52,Aguardando,97,28.44,7,Sim
+8575,2023-05-28,São Paulo,Transportadora Y,1505.45,Aguardando,38,21.6,4,Não
+7742,2023-11-03,Rio de Janeiro,Transportadora X,2970.24,Entregue,80,1.93,7,Sim
+2946,2023-12-08,São Paulo,Transportadora Y,419.05,Em trânsito,83,15.76,6,Não
+7567,2023-05-23,Belo Horizonte,Transportadora Y,2720.81,Aguardando,90,24.91,7,Não
+7206,2023-10-20,Belo Horizonte,Transportadora X,1593.29,Em trânsito,10,21.9,3,Sim
+1198,2023-08-16,Rio de Janeiro,Transportadora X,4130.02,Entregue,6,18.3,4,Não
+6719,2023-10-27,São Paulo,Transportadora X,2594.9,Em trânsito,25,40.29,2,Sim
+2990,2023-12-12,São Paulo,Transportadora Y,3369.31,Aguardando,14,33.89,5,Sim
+5555,2023-10-10,São Paulo,Transportadora X,1914.38,Aguardando,84,35.8,4,Sim
+3440,2023-10-26,Belo Horizonte,Transportadora Y,1770.46,Em trânsito,79,17.99,7,Não
+5653,2023-12-28,São Paulo,Transportadora Y,4823.82,Aguardando,65,18.81,3,Sim
+1046,2023-09-02,Belo Horizonte,Transportadora X,699.13,Entregue,35,2.22,2,Sim
+5042,2023-11-06,Rio de Janeiro,Transportadora X,4768.3,Aguardando,75,2.43,8,Não
+6285,2023-09-30,Belo Horizonte,Transportadora Y,4601.82,Em trânsito,6,46.99,3,Sim
+4925,2023-12-08,Rio de Janeiro,Transportadora X,1906.86,Aguardando,33,11.42,10,Não
+9896,2023-11-08,Rio de Janeiro,Transportadora X,723.73,Em trânsito,14,42.97,2,Não
+3492,2023-04-04,Rio de Janeiro,Transportadora Y,4706.65,Entregue,40,19.87,5,Não
+9089,2023-03-28,Rio de Janeiro,Transportadora Y,745.82,Aguardando,4,27.97,8,Não
+3080,2023-05-15,Rio de Janeiro,Transportadora X,2727.67,Aguardando,88,38.04,9,Não
+9701,2023-10-31,Belo Horizonte,Transportadora X,1803.88,Em trânsito,84,36.22,7,Sim
+8830,2023-08-25,Rio de Janeiro,Transportadora X,4411.69,Aguardando,34,4.1,3,Sim
+8648,2024-01-01,Rio de Janeiro,Transportadora Y,3670.2,Aguardando,96,9.82,3,Sim
+9149,2023-12-17,São Paulo,Transportadora Y,2017.88,Entregue,50,35.4,2,Sim
+2733,2023-04-29,Belo Horizonte,Transportadora X,4048.58,Em trânsito,31,46.14,9,Sim
+8872,2023-01-01,Belo Horizonte,Transportadora X,2707.43,Aguardando,57,15.86,10,Sim
+6051,2023-10-01,São Paulo,Transportadora Y,3330.92,Entregue,26,46.37,3,Sim
+7352,2023-04-11,Belo Horizonte,Transportadora Y,4694.64,Aguardando,15,19.16,1,Sim
+5588,2023-12-18,Rio de Janeiro,Transportadora Y,3005.48,Em trânsito,37,38.97,8,Sim
+7753,2023-11-12,Rio de Janeiro,Transportadora X,878.53,Em trânsito,1,27.63,3,Sim
+9662,2023-12-02,Belo Horizonte,Transportadora Y,1605.62,Aguardando,92,13.38,10,Sim
+8599,2023-02-03,São Paulo,Transportadora X,215.66,Em trânsito,91,27.1,8,Sim
+3067,2023-06-04,Belo Horizonte,Transportadora X,1232.48,Aguardando,57,27.61,6,Não
+7043,2023-07-23,São Paulo,Transportadora Y,2766.26,Aguardando,83,4.25,8,Não
+7594,2023-10-05,São Paulo,Transportadora Y,620.52,Em trânsito,85,43.29,1,Sim
+7375,2023-07-17,São Paulo,Transportadora X,2069.47,Entregue,48,42.45,7,Sim
+6189,2023-02-24,Rio de Janeiro,Transportadora X,3171.57,Aguardando,16,14.28,9,Sim
+6235,2023-09-02,Belo Horizonte,Transportadora Y,4278.54,Em trânsito,95,5.21,5,Não
+3959,2023-11-16,Belo Horizonte,Transportadora X,4300.87,Em trânsito,2,5.84,6,Não
+6180,2023-06-11,Rio de Janeiro,Transportadora X,3640.58,Aguardando,74,10.91,2,Sim
+2787,2023-07-05,Belo Horizonte,Transportadora Y,3154.0,Em trânsito,94,5.74,10,Sim
+3690,2023-11-01,Belo Horizonte,Transportadora Y,2462.86,Entregue,37,19.87,9,Não
+1476,2023-09-08,São Paulo,Transportadora X,4348.35,Em trânsito,21,36.54,8,Sim
+5151,2023-12-05,São Paulo,Transportadora X,2058.88,Aguardando,70,33.68,6,Sim
+1028,2023-11-27,Rio de Janeiro,Transportadora X,1853.64,Entregue,96,33.3,6,Sim
+7975,2023-01-23,Rio de Janeiro,Transportadora Y,3348.45,Entregue,30,47.16,1,Não
+8235,2023-03-23,São Paulo,Transportadora X,1764.72,Entregue,44,16.05,8,Sim
+9718,2023-01-07,São Paulo,Transportadora Y,136.2,Aguardando,73,41.53,2,Sim
+3281,2023-10-07,Rio de Janeiro,Transportadora Y,1227.24,Entregue,63,38.91,4,Sim
+9064,2023-12-23,Belo Horizonte,Transportadora X,680.05,Entregue,87,35.52,10,Sim
+9588,2023-05-30,São Paulo,Transportadora X,4107.41,Entregue,84,23.87,6,Não
+8160,2023-06-13,São Paulo,Transportadora Y,2592.09,Aguardando,62,8.66,3,Sim
+7786,2023-11-10,Belo Horizonte,Transportadora Y,1908.62,Aguardando,96,34.05,3,Sim
+1775,2023-09-07,Belo Horizonte,Transportadora Y,1168.05,Aguardando,18,48.63,7,Sim
+8682,2023-12-08,Rio de Janeiro,Transportadora X,338.23,Aguardando,47,19.36,7,Não
+8018,2023-03-24,Rio de Janeiro,Transportadora Y,2692.06,Em trânsito,69,26.88,6,Não
+9888,2023-05-31,Belo Horizonte,Transportadora Y,1977.89,Entregue,36,48.74,10,Sim
+8729,2023-12-03,São Paulo,Transportadora Y,1798.61,Em trânsito,13,25.84,6,Sim
+8869,2023-06-21,Rio de Janeiro,Transportadora Y,2324.75,Aguardando,30,8.46,7,Não
+3991,2023-11-29,Belo Horizonte,Transportadora Y,329.8,Entregue,8,45.78,2,Sim
+3630,2023-02-14,São Paulo,Transportadora Y,3890.98,Entregue,2,4.89,2,Não
+8708,2023-08-20,Rio de Janeiro,Transportadora X,852.39,Entregue,12,11.58,8,Não
+5431,2023-12-07,São Paulo,Transportadora X,279.35,Entregue,34,16.05,9,Sim
+7643,2023-05-15,São Paulo,Transportadora Y,1607.8,Em trânsito,63,19.5,9,Não
+1236,2023-11-22,Rio de Janeiro,Transportadora X,191.57,Entregue,18,34.32,8,Não
+9710,2023-01-20,Rio de Janeiro,Transportadora X,3115.56,Aguardando,31,13.45,10,Não
+8283,2023-03-15,Rio de Janeiro,Transportadora Y,4988.62,Aguardando,53,37.29,2,Sim
+6854,2023-04-30,Rio de Janeiro,Transportadora Y,1362.24,Entregue,71,19.97,3,Não
+9000,2023-11-03,São Paulo,Transportadora X,3377.15,Entregue,2,44.69,5,Sim
+4307,2023-01-29,Rio de Janeiro,Transportadora Y,4364.28,Entregue,58,47.02,4,Não
+1500,2023-06-04,Belo Horizonte,Transportadora X,994.3,Em trânsito,73,37.72,4,Sim
+3024,2023-04-08,Belo Horizonte,Transportadora Y,4823.39,Entregue,83,43.08,9,Sim
+2352,2023-12-25,Belo Horizonte,Transportadora X,1002.43,Em trânsito,27,9.92,1,Sim
+1217,2023-04-05,São Paulo,Transportadora X,2302.25,Entregue,91,6.91,2,Sim
+8136,2023-09-14,Belo Horizonte,Transportadora Y,4671.59,Em trânsito,95,40.48,6,Não
+4701,2023-07-16,Rio de Janeiro,Transportadora Y,834.42,Entregue,10,34.08,6,Sim
+3153,2023-07-03,Rio de Janeiro,Transportadora X,2661.21,Aguardando,52,25.21,1,Sim
+9567,2023-02-28,Rio de Janeiro,Transportadora Y,589.81,Aguardando,40,40.67,1,Não
+4333,2023-12-29,Belo Horizonte,Transportadora X,336.68,Entregue,63,29.08,3,Sim
+2774,2023-09-24,São Paulo,Transportadora Y,998.3,Entregue,1,29.83,1,Não
+8844,2023-04-15,Belo Horizonte,Transportadora X,3322.53,Entregue,27,11.18,4,Sim
+6696,2023-01-03,Rio de Janeiro,Transportadora X,2338.1,Aguardando,15,21.52,9,Sim
+3317,2023-02-07,São Paulo,Transportadora X,168.36,Aguardando,72,30.82,10,Não
+9169,2023-12-01,Rio de Janeiro,Transportadora Y,665.62,Aguardando,2,49.58,10,Sim
+3118,2023-10-26,Rio de Janeiro,Transportadora Y,4739.06,Entregue,44,46.21,6,Não
+8827,2023-08-18,São Paulo,Transportadora Y,409.92,Em trânsito,97,13.71,5,Sim
+3847,2023-11-16,Belo Horizonte,Transportadora X,1150.7,Aguardando,92,8.6,3,Sim
+6674,2023-01-19,São Paulo,Transportadora X,2534.86,Entregue,85,43.49,7,Não
+5534,2023-10-04,Belo Horizonte,Transportadora Y,3535.85,Em trânsito,66,41.47,4,Sim
+7474,2023-02-12,Belo Horizonte,Transportadora X,1279.46,Aguardando,75,12.15,6,Sim
+8331,2023-12-12,Belo Horizonte,Transportadora Y,2579.55,Em trânsito,66,36.28,9,Não
+2602,2023-06-26,Rio de Janeiro,Transportadora Y,2679.22,Entregue,14,19.31,6,Não
+3819,2023-05-20,São Paulo,Transportadora Y,1494.44,Aguardando,94,34.31,2,Não
